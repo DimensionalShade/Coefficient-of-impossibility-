@@ -1,0 +1,1 @@
+[\n  {\n    "referral_token": "abc123",\n    "agent_manifest": {\n      "agent_id": "did:eugram:peer",\n      "public_key_nd": "base64-key",\n      "dimension": 7,\n      "consent_policy": "explicit",\n      "routing_endpoint": "tor://eugramxyz.onion"\n    }\n  }\n]

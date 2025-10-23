@@ -1,0 +1,1 @@
+{ "agent_id": "did:eugram:peer", "referral_token": "abc123", "public_key_nd": "base64-key", "dimension": 7, "consent_policy": "explicit" }
