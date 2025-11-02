@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coefficient_of_impossibility"
+version = "0.1.0"
+description = "Computable metric Ξ for architectural deviation"
+authors = [{name = "Dima"}]
